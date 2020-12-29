@@ -54,6 +54,7 @@ CAC40_data.shape
 CAC40_data['date']=pd.to_datetime({'year':CAC40_data['annee'],'month':CAC40_data['mois'], 'day':CAC40_data['jour']})
 print(CAC40_data.head(5))
 
+CAC40_data.columns
 
 # %%  Statistiques de base
 
