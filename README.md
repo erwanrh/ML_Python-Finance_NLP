@@ -4,7 +4,7 @@
  Library used : Scikit Learn
  
  ## Database :
- The database is already processed. It contains one column for each word in the tweets and the informations about the tickers and returns (Daily, monthly...)
+ The database is already processed. It contains one column for each word in the tweets and the information about the tickers and returns (Daily, monthly...)
 
 ## Model :
 We use the MLP (multi layer perceptron) model from the Sklearn package. 
